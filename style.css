@@ -1,0 +1,129 @@
+body{
+    font-family: 'Poppins';
+    margin: 0;
+}
+h1{
+    font-size: xx-large;
+}
+
+p{
+    color: gray;
+}
+ 
+.name-highlighter{
+    color: deeppink;
+    font-size: 60px;
+    
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.top-banner{
+    background-image: url("image/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgba(255, 4, 121, 0.959);
+    padding: 8px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.middle-banner{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#work{
+    text-align: center;
+}
+#first-work{
+    margin-left: 80px;
+    margin-right: 20px;
+
+}
+#second-work{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+#third-work{
+    margin-left: 20px;
+    padding-right: 80px;
+}
+
+
+.work-experiance{
+    width: 22%;
+    height: 30%;
+    float: left;
+    padding: 40px 20px 2px 20px;
+
+    
+
+}
+.bottom-banner{
+    margin-left: 30px;
+    padding-bottom: 30px;
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.bottom-banner img{
+    width: 110%;
+    margin: 1px;
+
+
+}
+.contact{
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.client-line{
+    text-align: center;
+}
+#quote{
+    text-align: center;
+    color: black;
+    padding: 40px;
+}
+.messeage{
+    margin-left: 28%;
+    margin-right: 30%;
+    margin-top: 15px;
+    padding-top: 20px;
+    color: white;
+    text-align: center;
+    box-shadow:white;  
+    border-radius: 7px;
+    height: 30%;
+    width: 50%;
+    background-color: deeppink;
+    background-image: linear-gradient(20deg,rgb(226, 46, 172),deeppink);
+
+}
+.messeage p{
+    color: white;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+    padding-bottom: 10px;
+}
